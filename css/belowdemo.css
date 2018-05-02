@@ -390,6 +390,31 @@ a:focus {
 	--link-hover-color: #fff;
 } */
 
+@media screen and (max-width: 1130px) {
+	.bcontent__title{
+		font-size: 8vw;
+	}
+}
+
+@media screen and (max-width: 1130px) {
+	.hello{
+		bottom: 20px;
+	}
+
+}
+
+@media screen and (max-width: 882px) {
+	.content--fixed{
+		display: none;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.hello{
+		display: none;
+	}
+}
+
 @media screen and (max-width: 50em) {
 	.bcontent--fixed {
 		height: auto;
