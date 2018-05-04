@@ -10,3 +10,7 @@ Portfolio site: revision 2
   5. perlin.js
   6. tweenmax.js
   7. fontawesome.js
+ 
+## Author
+
+ - Himanshu chhabra
